@@ -1,4 +1,5 @@
 # This is a oops based library management system
+# Just a study purpose oops program
 from datetime import datetime, timedelta
 
 class Book:
