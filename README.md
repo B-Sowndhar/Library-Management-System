@@ -1,4 +1,10 @@
-# Library Management System
+# Library Management System  
+<p align="center">
+  <a href="https://replit.com/@bsowndhar/Library-Management-System" target="_blank">
+    <img src="https://img.shields.io/badge/Replit-Run%20Here-blue?logo=replit&logoColor=white" alt="Run on Replit" width="200">
+  </a>
+</p>
+
 
 This project is a **simple Object-Oriented Programming (OOP) based Library Management System** developed in Python. It is designed for academic practice and to strengthen OOP concepts with real-world use cases.
 
